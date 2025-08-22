@@ -42,7 +42,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer&text=&fontAlign=50" width="100%"/>
 
 ## 🐍 Contribution Snake (auto-updates)
-> Watches your commits and draws an animated snake out of your contribution grid.
 <p align="center">
   <!-- Light mode -->
   <picture>
